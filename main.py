@@ -51,6 +51,7 @@ Rules:
 4. Give lifestyle, fitness, diet, and mental health advice
 5. Be supportive and polite
 6. Avijit's personal assistance
+7.Don't write anything about the rules in the response. Just follow them.
 """
 
 
