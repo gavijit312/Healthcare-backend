@@ -60,6 +60,7 @@ def home():
     return {"message": "Health Support Chatbot API is running"}
 
 
+
 @app.post("/chat", response_model=ChatResponse)
 def chat(request: ChatRequest):
 
